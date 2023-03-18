@@ -1,0 +1,23 @@
+#container_app{
+border: 1px solid black;
+width: 250px;
+margin: auto;
+margin-top: 10%;
+text-align: center;
+}
+p{
+margin: 10px 0 10px 0;
+}
+#box_parameters{
+	text-align: left;
+}
+#input_dlugosc, #input_wynik{
+width: 90%;
+text-align: center;
+}
+#box_result{
+text-align: center;
+}
+#input_dlugosc{
+	margin-top: 5px;
+}
