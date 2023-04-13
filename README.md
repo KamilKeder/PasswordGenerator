@@ -1,6 +1,6 @@
 # :desktop_computer: PasswordGenerator
 
-The application presents a game in which the user must knock down 5 black rectangles using a colorful blue ball that bounces off walls and rectangles. The player can also control a single red rectangle using the left and right arrows on the keyboard or screen. The game ends when the ball touches the bottom wall, and the player loses, or when all 5 rectangles are knocked down, which means the user wins.
+The application automatically generates a random password using the characters selected by the user. It displays the password in a secure manner, allowing for easy copying or memorization. This ensures that the user can be confident that the password is secure and difficult to guess.
 
 ## :framed_picture: Screenshots
 
